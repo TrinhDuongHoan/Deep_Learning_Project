@@ -1,22 +1,42 @@
-Image_ID, Label, Source_image,Reason
-H100000,Leaf_Blast,https://vietthanghanoi.vn/wp-content/uploads/2022/04/benh-dao-on-gay-hai-tren-cay-lua.jpg,tin cậy
-H100001,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5576376970/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100002,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5575797069/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100003,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5575804225/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100004,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5576392036/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100005,Brow_Spot,https://www.flickr.com/photos/ricephotos/5575807251/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100006,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575809711/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100007,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575811721/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100008,Leaf_Blast,https://www.flickr.com/photos/ricephotos/9613966820/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100009,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5575831203/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100010,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575839455/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100011,Leaf_Blight,https://www.flickr.com/photos/ricephotos/12826535534/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100012,Leaf_Blast,https://www.flickr.com/photos/ricephotos/2678348425/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100013,Leaf_Blight,https://izumibiosciences.in/wp-content/uploads/2023/07/Bacterial-Leaf-Blight-of-Rice-Symptoms-Disease-cycle-Management-1024x641.jpg, Nguồn uy tín, tin cậy
-H100014,Leaf_Blight,https://izumibiosciences.in/wp-content/uploads/2023/07/Disease-Cycle-of-Bacterial-Leaf-Blight-of-Rice-and-How-to-Identify-It.jpg, Nguồn uy tín, tin cậy
-H100015,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5576419044/in/album-72157626397556206, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100016,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866871435/in/album-72157641142383525, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100017,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866839309/in/album-72157641142383525, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100018,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866863149/in/album-72157641142383525, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100019,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866871933/in/album-72157641142383525, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
-H100020,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575839455/in/album-72157641142383525, Nguồn uy tín từ hội nghị quốc tế, được nhiều người sử dụng
+Image_ID, Label, Source_image
+H100000,Leaf_Blast,https://vietthanghanoi.vn/wp-content/uploads/2022/04/benh-dao-on-gay-hai-tren-cay-lua.jpg
+H100001,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5576376970/in/album-72157626397556206
+H100002,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5575797069/in/album-72157626397556206
+H100003,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5575804225/in/album-72157626397556206
+H100004,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5576392036/in/album-72157626397556206
+H100005,Brow_Spot,https://www.flickr.com/photos/ricephotos/5575807251/in/album-72157626397556206
+H100006,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575809711/in/album-72157626397556206
+H100007,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575811721/in/album-72157626397556206
+H100008,Leaf_Blast,https://www.flickr.com/photos/ricephotos/9613966820/in/album-72157626397556206
+H100009,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5575831203/in/album-72157626397556206
+H100010,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575839455/in/album-72157626397556206
+H100011,Leaf_Blight,https://www.flickr.com/photos/ricephotos/12826535534/in/album-72157626397556206
+H100012,Leaf_Blast,https://www.flickr.com/photos/ricephotos/2678348425/in/album-72157626397556206
+H100013,Leaf_Blight,https://izumibiosciences.in/wp-content/uploads/2023/07/Bacterial-Leaf-Blight-of-Rice-Symptoms-Disease-cycle-Management-1024x641.jpg
+H100014,Leaf_Blight,https://izumibiosciences.in/wp-content/uploads/2023/07/Disease-Cycle-of-Bacterial-Leaf-Blight-of-Rice-and-How-to-Identify-It.jpg
+H100015,Leaf_Blight,https://www.flickr.com/photos/ricephotos/5576419044/in/album-72157626397556206
+H100016,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866871435/in/album-72157641142383525
+H100017,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866839309/in/album-72157641142383525
+H100018,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866863149/in/album-72157641142383525
+H100019,Brow_Spot,https://www.flickr.com/photos/ricephotos/6866871933/in/album-72157641142383525
+H100020,Leaf_Blast,https://www.flickr.com/photos/ricephotos/5575839455/in/album-72157641142383525
+H100021,Brow_Spot,https://profesfar.com/storage/images/large/2024/07/01/profesfar-dom-nau-lua.webp
+H100022,Brow_Spot,https://sinhhocchaua.com/wp-content/uploads/2024/04/dom-nau-tren-lua.jpg
+H100023,Brow_Spot,https://digidrone.vn/storage/ti/23/ti23pw3v7qjoongvp18ut51gojby_benh-dom-nau-tren-lua_(2).webp
+H100024,Brow_Spot,https://www.titatrading.com/uploads/source/cau-chuyen-nha-nong/z6727071065799_e4c5d1bed8b20092da42bc1c7dc514cb.webp
+H100025,Brow_Spot,https://www.titatrading.com/uploads/source/cau-chuyen-nha-nong/z6727071065794_552341c66eaf2ead96787337f81dff6d.webp
+H100026,Leaf_Blast,https://nichino.com.vn/images/product/dao-on-lua.png
+H100027,Leaf_Blast,https://nongduochai.vn/upload_images/images/2021/10/28/B%E1%BB%87nh%20%C4%91%E1%BA%A1o%20%C3%B4n%20l%C3%A1%2C.JPG
+H100028,Leaf_Blast,https://vipesco.com.vn/pictures/catalog/support/02/do.jpg
+H100029,Leaf_Blast,https://congtydelta.com/public/upload/images/dao_on_la_lua.jpg
+H100030,Leaf_Blast,https://cdn.vnfarm.com.vn/hoi-dap/benh-dao-on-tren-lua-(4).webp
+H100031,Leaf_Blast,https://nicotex.vn/wp-content/uploads/2024/04/SACH-DAO-ON-4-1536x864.jpg
+H100032,Leaf_Blight,https://congtydelta.com/public/upload/images/Bacterial_blight_of_rice_17__1.jpg
+H100033,Leaf_Blight,https://congtydelta.com/public/upload/images/unnamed%20(7)(1).jpg
+H100034,Leaf_Blight,https://nongduoctoancau.com/storage/photos/175/benhbaclalua-4423.jpg
+H100035,Leaf_Blight,https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/503387433_3340676986075526_206544542208718514_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEQx_tMC5WLucAr1r_5ZKNX57sEHBrIpYrnuwQcGsilimqTDcM_FkmMADEJRZUyU27rBAD1ONpNELe5FnHbuka8&_nc_ohc=CqoAnq6jVEoQ7kNvwFziMGw&_nc_oc=Adl5VV6sRkvWtmU1xe96j0ECrXH8WLaWSZ24rlpvhkUzdRZI6uK1g1blb79iUGfGPC0F3Wpwnb3TsRy5f1CiAQwk&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=WJbCPpTFV6QnwqhbOg5s7w&oh=00_AfUT8un6e-YnGBW6ZBj9tHq1hyb-Fc_NK0fGt-k8a9lO1Q&oe=68A67882
+H100036,Leaf_Blight,https://profesfar.com/storage/images/large/2025/03/29/leaf-scald.webp
+H100037,Leaf_Blight,https://sataka.com.vn/storage/7f/tl/7ftlzjbj989z68ls3ie7h8xi051l_giai-doan-trung-gian-cua-benh-bac-la_5_11zon.webp
+H100038,Leaf_Blight,http://www.spchcmc.vn/FCKeditor/img/image/BSCayTrong/Thuocbenh/lua3.jpg
+H100039,Leaf_Blight,http://www.spchcmc.vn/FCKeditor/img/image/BSCayTrong/Thuocbenh/lua1.jpg
+H100040,Leaf_Blight,https://sahari.com.vn/storage/nu/yb/nuybmk08eg5n92cvprkax30ont1u_benh-bac-la-lua_(1).webp
